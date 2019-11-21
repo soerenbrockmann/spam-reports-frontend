@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App> renders correctly 1`] = `
+<div>
+  LOADING
+  <h1>
+    Reports (
+    25
+    )
+  </h1>
+</div>
+`;

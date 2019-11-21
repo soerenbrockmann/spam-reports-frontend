@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItem> renders correctly 1`] = `
+<div>
+  <div
+    className="gridContainer"
+  >
+    <div
+      className="gridItem"
+    >
+      Id: dummyId
+    </div>
+    <div
+      className="gridItem"
+    >
+      Type: dummyReportType
+    </div>
+    <div
+      className="gridItem gridItemRight"
+    >
+      <button
+        className="button"
+        id="dummyId"
+        onClick={[Function]}
+      >
+        Block
+      </button>
+    </div>
+    <div
+      className="gridItem"
+    >
+      State: dummyState
+    </div>
+    <div
+      className="gridItem"
+    >
+      Message: dummyMessage
+    </div>
+    <div
+      className="gridItem gridItemRight"
+    >
+      <button
+        className="button"
+        id="dummyId"
+        onClick={[Function]}
+      >
+        Resolve
+      </button>
+    </div>
+    <div
+      className="gridItem"
+    >
+      <a
+        href="#"
+      >
+        Details
+      </a>
+    </div>
+    <div
+      className="gridItem"
+    />
+    <div
+      className="gridItem"
+    />
+  </div>
+</div>
+`;

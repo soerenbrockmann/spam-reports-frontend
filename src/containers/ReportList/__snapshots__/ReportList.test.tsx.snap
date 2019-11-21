@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReportList> renders without crashing 1`] = `
+<div>
+  LOADING
+  <h1>
+    Reports (
+    25
+    )
+  </h1>
+</div>
+`;
